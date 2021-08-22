@@ -1,0 +1,21 @@
+sup{
+	color:red;
+}
+
+
+
+.registerbtn {
+  background-color:black;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  width: 100%;
+  border-radius:50px;
+} 
+
+.registerbtn:hover {
+  background-color:gray;
+}
+
+
